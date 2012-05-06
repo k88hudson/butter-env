@@ -1,7 +1,7 @@
 {
   "server" : {
-    "bindIP" : "50.116.52.222",
-    "bindPort" : "80"
+    "bindIP" : "localhost",
+    "bindPort" : "7777"
   },
   "logger" : {
     "format" : "dev"
@@ -13,7 +13,7 @@
     "wwwRoot": "./public",
     "templates": "./public",
     "publish": "./public/view",
-    "publishPrefix": "http://50.116.52.222/popcorn"
+    "publishPrefix": "http://localhost/popcorn"
   },
   "environment": {
     "mode": "production",
