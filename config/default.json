@@ -1,7 +1,7 @@
 {
   "server" : {
-    "bindIP" : "localhost",
-    "bindPort" : "7777"
+    "bindIP" : "50.116.52.222",
+    "bindPort" : "80"
   },
   "logger" : {
     "format" : "dev"
@@ -13,7 +13,7 @@
     "wwwRoot": "./public",
     "templates": "./public",
     "publish": "./public/view",
-    "publishPrefix": "http://localhost"
+    "publishPrefix": "http://katehudson.ca"
   },
   "environment": {
     "mode": "production",
