@@ -13,7 +13,7 @@
     "wwwRoot": "./public",
     "templates": "./public",
     "publish": "./public/view",
-    "publishPrefix": "http://katehudson.ca"
+    "publishPrefix": "http://50.116.52.222"
   },
   "environment": {
     "mode": "production",
