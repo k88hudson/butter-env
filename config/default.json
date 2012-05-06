@@ -13,7 +13,7 @@
     "wwwRoot": "./public",
     "templates": "./public",
     "publish": "./public/view",
-    "publishPrefix": "http://localhost/popcorn"
+    "publishPrefix": "http://localhost"
   },
   "environment": {
     "mode": "production",
